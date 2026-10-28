@@ -14,3 +14,4 @@ question = "give me three ideas for AI-powered marketing automation."
 answer = ask_gemini(question)
 
 print(answer)
+# Learning Git: my first tracked project update.
