@@ -14,5 +14,6 @@ question = "give me three ideas for AI-powered marketing automation."
 answer = ask_gemini(question)
 
 print(answer)
+# Learning Git: practicing conflict resolution on my feature branch.
 # Learning Git: practicing conflict resolution on main.
 # Experimenting with a new feature on a seperate branch.
